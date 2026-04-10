@@ -52,86 +52,110 @@ http://monstertv.live:8080/Bernice2/Hoffa/998699
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://monstertv.live:8080/Bernice2/Hoffa/998700
 
-#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Beekeeper: El protector (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11452.mp4
-
-#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Cazafantasmas: Imperio Helado (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11453.mp4
-
-#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Godzilla x Kong: El nuevo imperio (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11454.mp4
-
-#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Duna: Parte Dos (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11455.mp4
-
-#EXTINF:-1 group-title="👶 INFANTIL",Kung Fu Panda 4 (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11456.mp4
-
-#EXTINF:-1 group-title="🔥 ACCIÓN",Road House (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11457.mp4
-
-#EXTINF:-1 group-title="🏆 PREMIADAS",Pobres Criaturas (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11458.mp4
-
-#EXTINF:-1 group-title="👨‍👩‍👧 FAMILIAR",Wonka (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11459.mp4
-
-#EXTINF:-1 group-title="🏆 PREMIADAS",Oppenheimer (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11460.mp4
-
-#EXTINF:-1 group-title="📜 HISTÓRICAS",Napoleón (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11461.mp4
-
-#EXTINF:-1 group-title="🦸 SUPERHÉROES",Aquaman y el Reino Perdido (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11462.mp4
-
-#EXTINF:-1 group-title="👶 INFANTIL",Wish: El poder de los deseos (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11463.mp4
-
-#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Los Juegos del Hambre: Balada de Pájaros Cantores (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11464.mp4
-
-#EXTINF:-1 group-title="🦸 SUPERHÉROES",The Marvels (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11465.mp4
-
-#EXTINF:-1 group-title="😱 TERROR",Five Nights at Freddy's (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11466.mp4
-
-#EXTINF:-1 group-title="🏆 PREMIADAS",Killers of the Flower Moon (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11467.mp4
-
-#EXTINF:-1 group-title="👨‍👩‍👧 FAMILIAR",Barbie (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11468.mp4
-
-#EXTINF:-1 group-title="👶 INFANTIL",Super Mario Bros: La Película (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11469.mp4
-
-#EXTINF:-1 group-title="🚀 SCI-FI",Avatar: El sentido del agua (2022)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11470.mp4
-
-#EXTINF:-1 group-title="🔥 ACCIÓN",Top Gun: Maverick (2022)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11471.mp4
-
-#EXTINF:-1 group-title="🕷️ ANIMACIÓN",Spider-Man: Across the Spider-Verse (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://aioplus.es:80/movie/Grower24/Grower24/11472.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="198146" tvg-name="Contraataque (2025)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct7wauUCztlPwpMvYYq86FhpHVNG6bFmI3HS-SXYrbNNI.jpg" group-title="♦️ESTRENOS 2025♦️",Contraataque (2025)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXDeFpRhwgeQgQ7gdLSOnAmH2gSdzmOyQj57TihhRn7bV#.mp4
+#EXTINF:-1 xui-id="222528" tvg-name="Acapulco S01E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtS7Ib3tzFfY5ka7esa1nQwzUYfxmTNe23gwH3MYdb9Iv419L_Rg4dwWbjBUsLQygt0.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBMDiQZbiPqItfOYNCECoAHGP2ZMCdUNH34m42FmiIqzt#.mkv
+#EXTINF:-1 xui-id="222529" tvg-name="Acapulco S01E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtT16xZ9aUV2JYr6KgCVuAe5EQmmmiJRcDa807RsM33efcGsXrsxHi7SjWCZZDNvQUU.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBDhnjNF44KJiU0wYDIfvPqp8jRVv0iYI76aTJg_xBz43#.mkv
+#EXTINF:-1 xui-id="222530" tvg-name="Acapulco S01E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSSp4dYtMTp4aw8s3v5IKNuwQw74P4kdnLizGc8wvm7cQ.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBGgKn5EYkbm6dXkscub8X43-yobn4Ll1FEyTCUQavqnc#.mkv
+#EXTINF:-1 xui-id="222531" tvg-name="Acapulco S01E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSa_yLjdzivpB8_00Ywajax2Mn7z1CFgqBjJjbqhbvtLvBE_u5PlNHCPX9JsSS4SP8.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBB1ufrXSgv7KDI7fOn-C-vrXVsv5jv-uTu1nZ8VQlBzA#.mkv
+#EXTINF:-1 xui-id="222532" tvg-name="Acapulco S01E05" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ2_cGowizniGU_uZbE1oURe9lcNDG8PvUoJDg-d2QwjzRdgLzFnwenWJLTvRqqrmw.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E05
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBOeFxn42rfrp7dKRn67HMILFki1Lc2GvuNbAjG2OBsYS#.mkv
+#EXTINF:-1 xui-id="222533" tvg-name="Acapulco S01E06" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRkQG3ozOgEJ5UYYEeuyLJ7i23Sa-1Jp4z9WmLhEUE_ItIidrH5Oo4LHWQx4LazXfc.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E06
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBIw8ktjfcu8plwu6STFITzHoUycuxMCixHYwu2Jx4DFV#.mkv
+#EXTINF:-1 xui-id="222534" tvg-name="Acapulco S01E07" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtROdXXroC92plqeqHytXoHQJSFgq7-Lr88fglNA3SBOuoI0AbqB5c4_UNG_IQY30iM.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E07
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBA6fSz1ycUoaNF95lpVL0DyYARZrn3Grzfr8R-F_0Fk4#.mkv
+#EXTINF:-1 xui-id="222535" tvg-name="Acapulco S01E08" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSYiAzYwz8bNMN5nz39W5LjIAXdixzm9yI4lG3Z5d-3PA.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E08
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBGY5eYxGvQXktr7CxyZYm-9jRV3MglTGDOUoh4vezzxH#.mkv
+#EXTINF:-1 xui-id="222536" tvg-name="Acapulco S01E09" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQm0RblQ13W22aCdeVSErgQo9dr4ffxKrAIOKhYRQGC4uEMor4tsvEf_GEJiHq3KW4.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E09
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBJ_Ed--HPbfvPIV4BQ56OQwKuIepVir3jBIzvrOFIPT-#.mkv
+#EXTINF:-1 xui-id="222537" tvg-name="Acapulco S01E10" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSvDBCu0a_ka6TzmQ_e6LN3pcB0NI2Iq3s7-2L29OOtQokasD1xQM5ikX59lRBFXJw.jpg" group-title="♦️APPLE TV♦️",Acapulco S01E10
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBER8Aji9oodPAifofpYKQN3xUUdDmmrrTUPEsobXsso0#.mkv
+#EXTINF:-1 xui-id="222565" tvg-name="Jaja, qué payasos S01E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTRr6l0qgKHSAEIbHsmlkvG5irvACW8L2V9APTVfJbiBWUL0ORJgs0FcjUK63OkA00.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBCPGBK795TwSfe6PlZ21DLLRZ1Zxx1CVTun8fdCjKT5z#.mkv
+#EXTINF:-1 xui-id="222566" tvg-name="Jaja, qué payasos S01E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSqQzGRrappIrPDxWq-eHkKK313IHtjjzAUI-fWz3-aVNDYppd2r6yFY1HCivwuDwE.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBORCXXgp3Gcv5DEYXncUH4T8Zv4HFDvtMLp8zLbzAbTE#.mkv
+#EXTINF:-1 xui-id="222567" tvg-name="Jaja, qué payasos S01E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTTzSKzaisYoPlInng87jYcTZxLXnIk6PScg66oq6c-Zlzf0bS6hLdDRE2rkfS7ugs.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBGM9QTeRT5mSYzTqz028MfR2hqTGBj3Bn9qJmIWbQwqr#.mkv
+#EXTINF:-1 xui-id="222568" tvg-name="Jaja, qué payasos S01E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRMeM22cUH3VJ1_F2PJIbP0I2xgZLMlxJqCSMhdT_qdLKQhrc0cVrhBSFW53vXD_Es.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBH0NKJhUIgh-9nwjz79bfg62vLTz_VsrjUVDnfCGQKy3#.mkv
+#EXTINF:-1 xui-id="222569" tvg-name="Jaja, qué payasos S01E05" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSx-E0ebkRxK25im8Z1vBRDDosLYcupYxwy0qYPM4AeQzuJFPJnD8JxfQ0bwzdO-YE.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E05
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBCI7WUPMtaBiVcdvT9SnFQuNwRKEKmRwvLdb9MNVxaGV#.mkv
+#EXTINF:-1 xui-id="222570" tvg-name="Jaja, qué payasos S01E06" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtR-6DfOyj7tWE_lc2qR2KV6hA-VZq_XizNL00VpqI7L2r8Aa5mr38ugw0c2QIB7rik.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E06
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBCmA_bpO0lF6V3zBoeAH2QFyCRQ7x9gYCv3sPcqjCR6Z#.mkv
+#EXTINF:-1 xui-id="222571" tvg-name="Jaja, qué payasos S01E07" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTEvWCmBt_xFQ5rb7RfAqj8l6_-FQeYz2OvECH9hbW7PoPJrqmb9RCtwY00QA4HU0M.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E07
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBFAtLy6UzxY8qVz-0E_hWw8rl_7r-bT1dGU-SPAZ9_rZ#.mkv
+#EXTINF:-1 xui-id="222572" tvg-name="Jaja, qué payasos S01E08" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSqde1vU7lTsgOsQYvYr4d7_1W4Q6hXNa8Ei-qum0eQQ4TvWuLwCpq6aqmxnPNQQ2I.jpg" group-title="♦️PRIME♦️",Jaja, qué payasos S01E08
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBOr-0JUsLUjZOWk6JIjN8IEPxf49BHq1H0ha4Oc07tRF#.mkv
+#EXTINF:-1 xui-id="222573" tvg-name="Power Book IV: Force S01E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTLskguEoUQVLcId7Rw2q-sUDES2-DEVoD6oagp3h-5c8yK0kU5O4yBdXBPpLLYoxU.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBBFjMAw0hYxnXKHvLxdlAVHvaAR1ho4B6Vzx-7L2EGpP#.mp4
+#EXTINF:-1 xui-id="222574" tvg-name="Power Book IV: Force S01E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSANOU-e01BEFzPvpF_kDMMU40jUHoS8UToxg-UyUPabJyfszJI71phG0CXvETQWB8.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBB35HcGg0viOaDZAHMNF71POwq19ogkILjh7WBVwBaZ4#.mp4
+#EXTINF:-1 xui-id="222575" tvg-name="Power Book IV: Force S01E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQEpTxclo5TATGQlmFPqYl8khbVTEDIQrBQgZj81tNqXwwMu3HBJl8ce7tR0b2A_3Q.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBM8FBAoc5Ytt8KJKDuxuHfPD5qUsxj9X3XsR_qWaQEQH#.mp4
+#EXTINF:-1 xui-id="222576" tvg-name="Power Book IV: Force S01E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtT6dKuFXu4l_4tpVJn7rfEA4CygfF4A2YqRTseYCyW2Er3xdUFNC6T1VBLQ9IN8AYs.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBMHtgZJIcL-4X4T2HEzSt823SJhvH2R62qaOqd5KQk7X#.mp4
+#EXTINF:-1 xui-id="222577" tvg-name="Power Book IV: Force S01E05" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRwU_S0hLqDhPaAoLIEa3MCHl3mPCpWi0Ig2kSlxvET3-VRe9mTzAGV3rUrNouPAVw.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E05
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBPG_YRqU0Mdm4FHkd9sBBmLkuBC9px2ymSYYhz_OUNuS#.mp4
+#EXTINF:-1 xui-id="222578" tvg-name="Power Book IV: Force S01E06" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQsviLangJ_kY3dhG017TJnuRX0L30YOAACjMSaZbtjyZaRnE2pEW16pLZsQisiRO4.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E06
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBEjSignUVYpubvSbJY8p6-xtVS622AqHFyAMhEF-AMP2#.mp4
+#EXTINF:-1 xui-id="222579" tvg-name="Power Book IV: Force S01E07" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSuS9ua-gU6kLSxPBVg_afHI4SsPTaAMeoMPhVz3iRTjqk8z8gVE1LbBNQESJZQyZs.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E07
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBD86CkSzjvJUA0g9AAhLqoVgG5H5-RH7t9P57XztpENs#.mp4
+#EXTINF:-1 xui-id="222580" tvg-name="Power Book IV: Force S01E08" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ8D0xbyXP9wsXh-zThdUXvD8hhLKhis5ZxYmvYKMYTKhDzswnhECu5wylbOs7seS4.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E08
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBAEUE23FbEXjDcwSc_M_ITZYmj23KToD_QqgRnKbJHnj#.mp4
+#EXTINF:-1 xui-id="222581" tvg-name="Power Book IV: Force S01E09" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTfsy7Pqqh55Ci-4WbHpxJBxWItGIkew0k5NlgJmUbWoZbiUqx-MKZv29J5k8rxWFg.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E09
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBMAxG2xvYR0nOoVxIS9ID-18cCUldqAC_L4uCVPpsInE#.mp4
+#EXTINF:-1 xui-id="222582" tvg-name="Power Book IV: Force S01E10" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSEK4ZQ5V-O-tCofV3WV-RbGUjEvqORZ8-UaF_WgAlxBgrzfonqRJVKWwdTjFh2dxo.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S01E10
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBK1_I2mwGs1BzEAUjak4cwV7hoZFnp1tjgF5DPk9Wg-J#.mp4
+#EXTINF:-1 xui-id="222583" tvg-name="Power Book IV: Force S02E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRKkmcxSrmxY9tozycLSCkXYl31VZZd166LK6MWzoqohbJX0imFGt9WdYU33QXG46M.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBK_apTh_RKPuv0A5RXbttr7YZdso3irmIiAQVY1H4oWi#.mkv
+#EXTINF:-1 xui-id="222584" tvg-name="Power Book IV: Force S02E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtT3rneATjAShnw1jjY39y53PirWB57qaMdMlQDb5GUAAFPunK2bfaJlRzZxA7iE9-U.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBHQlem9SPCQTYNi8Sh4SGXkZ88XHVTTYUNCgtjipGn_u#.mkv
+#EXTINF:-1 xui-id="222585" tvg-name="Power Book IV: Force S02E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSUT_p2YDKvkIRkduMb-gWgfMgClxPtzFn70q1vpE4s-N0brYuGMrh3Pry8Z1D8dqw.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBM0r0f2aYKWDs75oqlOnegrU7Gj-BBgmzlNt8ly0hpnb#.mkv
+#EXTINF:-1 xui-id="222586" tvg-name="Power Book IV: Force S02E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTDV85iPRCdPXQKE-fa1woMpLyaYbjgMRT6AydALPJdXOUVcMQEY9I7sv_qL-JrVCE.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBF2aupj_qjx9OojR0EfCed9tn7xgPZDhs_PlLy_E0TKG#.mkv
+#EXTINF:-1 xui-id="222587" tvg-name="Power Book IV: Force S02E05" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSRcvSFdwt7wLZ_nksvAYFZqPcIXJK6bzaq7mm67e6Dsxws5tM3eKKcEbmltqnybGg.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E05
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBIpBE4DD6MCAEaxlKmA0a3PYTW-te7V8T9hNEK_hATAo#.mkv
+#EXTINF:-1 xui-id="222588" tvg-name="Power Book IV: Force S02E06" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQNfiPpjaPPuw4syEKoqE_tlZCsyn7n8zYk9whaeGkidtFqba7Z1h8AtiCG3IbOJiQ.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E06
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBJl2xLH4b1kvgaJen3YftZYHLa3TZxfcqzhv3Jd2auui#.mkv
+#EXTINF:-1 xui-id="222589" tvg-name="Power Book IV: Force S02E07" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRArLHp29uTcbuxfSq0RvfLubWDOsQvkeQ2fkmAvAQVkP-L0dTigjU-hf67rSETyzs.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E07
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBK23YtFTxntPlx5bgIoAqB0_ib7mXJF07wwodLLU35S8#.mkv
+#EXTINF:-1 xui-id="222590" tvg-name="Power Book IV: Force S02E08" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtS9AUXJlcjVXakHRRK1dlfeVQjI9a-Rj3fgNDkP_G5tcEaXSwUYrw2grYl7O_1Qu5M.jpg" group-title="♦️PRIME♦️",Power Book IV: Force S02E08
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBJ9PaiXloG2v342Zzr2Vl5IcfCjlNVjZJY3dyr5J1i5x#.mkv
+#EXTINF:-1 xui-id="222591" tvg-name="Talamasca: La orden secreta, de Anne Rice S01E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTrpywN2XXTt7mcfULKzpjfr03ApMIe7GPtrQ7VrR4wn500vBg_qcwI12Tz6S0YXNA.jpg" group-title="♦️PRIME♦️",Talamasca: La orden secreta, de Anne Rice S01E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBCquXK-7MLQgDvYc_p2q8OVRry0qGCrvm3IGTn1aG9Rp#.mkv
+#EXTINF:-1 xui-id="222592" tvg-name="Talamasca: La orden secreta, de Anne Rice S01E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRIFkMkx4Rfr-NOZWFt1f5jsDh1xWzQFSwEp8XMkj_Xy2zdLAaDKU0tzrGl3MvTmeI.jpg" group-title="♦️PRIME♦️",Talamasca: La orden secreta, de Anne Rice S01E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBAZDAk8Tyu9SJnCp0STaJ-mXqunWC5A1CR5iqd99ZrJw#.mkv
+#EXTINF:-1 xui-id="222593" tvg-name="Talamasca: La orden secreta, de Anne Rice S01E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ30xJqS3HS58-FvQ_VkYgmiTyhb-9Op5lsQ3lRVd3jhBB1TUYpUEh7qFf-2KT6dCw.jpg" group-title="♦️PRIME♦️",Talamasca: La orden secreta, de Anne Rice S01E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBM2OP2iC2Y6j3Pj3XvP-AcalwpezmUZmrOVteHrxaPJy#.mkv
+#EXTINF:-1 xui-id="222594" tvg-name="Talamasca: La orden secreta, de Anne Rice S01E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRnNXhvNi2HrjxtPn_QKK7ODNFvQWUlZ05g7e0DoQl7FoudZpxuO1ne-8s-JssGZdE.jpg" group-title="♦️PRIME♦️",Talamasca: La orden secreta, de Anne Rice S01E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBOgRFMzH-o2co-OjccmSFjjDrHgVRe92yoYJOvVGyo3e#.mkv
+#EXTINF:-1 xui-id="222595" tvg-name="Talamasca: La orden secreta, de Anne Rice S01E05" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTOncFcFWVQIWt1uiQdd8BXaareMT61VFb55pTB_a_wixp-CFbaszftGh1g-M3zx_o.jpg" group-title="♦️PRIME♦️",Talamasca: La orden secreta, de Anne Rice S01E05
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBG2tfUwYYi94XhGLinFw3P_MtrXHsLOMyliDbodvEjM4#.mkv
+#EXTINF:-1 xui-id="222596" tvg-name="Talamasca: La orden secreta, de Anne Rice S01E06" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ_POIyC3dSNnKbEhXqo4b5PYaMsVH7EHqdSMQln7XM7Ry13Ub2vf5zoDGp1vkPLxk.jpg" group-title="♦️PRIME♦️",Talamasca: La orden secreta, de Anne Rice S01E06
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBEO4l9adI7fn-2qVXbmai5Dqz-Myqjs228oULClIlFmA#.mkv
+#EXTINF:-1 xui-id="222597" tvg-name="Atracadores: La serie S01E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQtT3GVOcrfTaJhkwp7JilKEuSMWyAh_HE7HrDXkxmmddzOkFQGYQ6kgXsI2RMBbBc.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S01E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBM-pf_dlVsJb_teiBb23vuQkuacqnpUZ0M7w05uNNDaU#.mp4
+#EXTINF:-1 xui-id="222598" tvg-name="Atracadores: La serie S01E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtScKIzcHOJiCbxnRSReuP_W68X3kJeG5BozojQl5B2FSISESRfCJHZaEnZPzRuhLrc.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S01E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBIdqPmsK2n0mGa5XJx-CAfclwep9TXPolL0cWlNehiCD#.mp4
+#EXTINF:-1 xui-id="222599" tvg-name="Atracadores: La serie S01E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ4LvJ6gK-MXDWZ5cFRhUwZIkLkau9x8eLAHdSxkUKcIdVyz6bOiFrL5-nR6b6CqRY.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S01E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBKgzRlioqDSNRA240tXNxKZMDe7Av0zcvBkW_gvRAN2g#.mp4
+#EXTINF:-1 xui-id="222600" tvg-name="Atracadores: La serie S01E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtT_dm_ijdegaBWsusMwKiLigs7tC0CCWMTF4XuT_8DQRkgGyhtoWdA3B3xyvyyc1yc.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S01E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBIxs0SfgJuwZ10ou3HafOAOPdDMBor8XPiMsHSmt8tx-#.mp4
+#EXTINF:-1 xui-id="222601" tvg-name="Atracadores: La serie S01E05" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtRx72xndgQkmfsEBMUX810KVTqGeFW4t7tktPnWukFCFbtoaAjXNWDACelJw_LMjxA.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S01E05
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBLncGMB_cTTTAvMsXccBtvpkxH98HTGj5yRZFQ_ajgYO#.mp4
+#EXTINF:-1 xui-id="222602" tvg-name="Atracadores: La serie S01E06" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ5HNyUbCVHJqJP288keFMiW7-YY-PVpV2tTh79Ljt1Ml-a1_EyTixz--qK5K3Jx6A.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S01E06
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBK4cNCoxXzj5BiUHPhRoNKua9wK6qurxITxrtpt5VB1m#.mp4
+#EXTINF:-1 xui-id="222603" tvg-name="Atracadores: La serie S02E01" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtQ0_0QaJSGI6EQiM_zBdAM2F2VmkuGoy1PhVBLOxmrY5YBAImXVjJ9CLYHZIaypITI.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S02E01
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBFVkIypwnLnCGOFmaGWn5BvOVkdC5SIByTcC3b9tWJdz#.mp4
+#EXTINF:-1 xui-id="222604" tvg-name="Atracadores: La serie S02E02" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtTGFUPyeMbBafyssBknGF7z-e0ViaGKchZaQIiabW94wvSNvuJrHSWWcFfaijxJbis.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S02E02
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBC-LFkvTEvY1vznypvlc4VpNtF1ZDKBw0t9iW6VocqjQ#.mp4
+#EXTINF:-1 xui-id="222605" tvg-name="Atracadores: La serie S02E03" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtR6EBXAO-TYSogvEP4oonZKhs6EhFtBVIjNhp81dwc7amVgwpQhFUfors1C-rwtLIU.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S02E03
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBDNBRPLazsEPapcbqkpWlu19QR8QHvN-WX7QLeV4HCSL#.mp4
+#EXTINF:-1 xui-id="222606" tvg-name="Atracadores: La serie S02E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSO3ksXVLTtPCzGkZG6HAUj_SMY-KLBp3E-jqNMt_S3u2pyaBocjYWqIAMO8e_fkyk.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S02E04
+https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBLg3ISlHZwh7Edh1YnlYaSD_5VSRS_4mxdB8VrJUhLsD#.mp4
