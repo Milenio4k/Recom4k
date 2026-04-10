@@ -51,3 +51,88 @@ http://monstertv.live:8080/Bernice2/Hoffa/998699
 #EXTINF:-1 tvg-name="Street Hawk 24/7" group-title="📺 CLÁSICOS",Street Hawk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://monstertv.live:8080/Bernice2/Hoffa/998700
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+
+#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Beekeeper: El protector (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11452.mp4
+
+#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Cazafantasmas: Imperio Helado (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11453.mp4
+
+#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Godzilla x Kong: El nuevo imperio (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11454.mp4
+
+#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Duna: Parte Dos (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11455.mp4
+
+#EXTINF:-1 group-title="👶 INFANTIL",Kung Fu Panda 4 (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11456.mp4
+
+#EXTINF:-1 group-title="🔥 ACCIÓN",Road House (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11457.mp4
+
+#EXTINF:-1 group-title="🏆 PREMIADAS",Pobres Criaturas (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11458.mp4
+
+#EXTINF:-1 group-title="👨‍👩‍👧 FAMILIAR",Wonka (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11459.mp4
+
+#EXTINF:-1 group-title="🏆 PREMIADAS",Oppenheimer (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11460.mp4
+
+#EXTINF:-1 group-title="📜 HISTÓRICAS",Napoleón (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11461.mp4
+
+#EXTINF:-1 group-title="🦸 SUPERHÉROES",Aquaman y el Reino Perdido (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11462.mp4
+
+#EXTINF:-1 group-title="👶 INFANTIL",Wish: El poder de los deseos (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11463.mp4
+
+#EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Los Juegos del Hambre: Balada de Pájaros Cantores (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11464.mp4
+
+#EXTINF:-1 group-title="🦸 SUPERHÉROES",The Marvels (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11465.mp4
+
+#EXTINF:-1 group-title="😱 TERROR",Five Nights at Freddy's (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11466.mp4
+
+#EXTINF:-1 group-title="🏆 PREMIADAS",Killers of the Flower Moon (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11467.mp4
+
+#EXTINF:-1 group-title="👨‍👩‍👧 FAMILIAR",Barbie (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11468.mp4
+
+#EXTINF:-1 group-title="👶 INFANTIL",Super Mario Bros: La Película (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11469.mp4
+
+#EXTINF:-1 group-title="🚀 SCI-FI",Avatar: El sentido del agua (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11470.mp4
+
+#EXTINF:-1 group-title="🔥 ACCIÓN",Top Gun: Maverick (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11471.mp4
+
+#EXTINF:-1 group-title="🕷️ ANIMACIÓN",Spider-Man: Across the Spider-Verse (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://aioplus.es:80/movie/Grower24/Grower24/11472.mp4
