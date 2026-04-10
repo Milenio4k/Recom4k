@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+
+#EXTINF:-1 tvg-name="Star Wars Rebels 24/7" group-title="⭐ SERIES 24/7",Star Wars Rebels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998688
+
+#EXTINF:-1 tvg-name="Star Wars The Clone Wars 24/7" group-title="⭐ SERIES 24/7",Star Wars The Clone Wars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998689
+
+#EXTINF:-1 tvg-name="Stargate Atlantis 24/7" group-title="🚀 SCI-FI 24/7",Stargate Atlantis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998690
+
+#EXTINF:-1 tvg-name="Stargate SG-1 24/7" group-title="🚀 SCI-FI 24/7",Stargate SG-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998691
+
+#EXTINF:-1 tvg-name="Stargate Universe 24/7" group-title="🚀 SCI-FI 24/7",Stargate Universe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998692
+
+#EXTINF:-1 tvg-name="Stargirl 24/7" group-title="🦸 SERIES DC",Stargirl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998693
+
+#EXTINF:-1 tvg-name="Starsky and Hutch 24/7" group-title="📺 CLÁSICOS",Starsky and Hutch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998694
+
+#EXTINF:-1 tvg-name="Station 19 24/7" group-title="🔥 DRAMA",Station 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998695
+
+#EXTINF:-1 tvg-name="Steptoe And Son 24/7" group-title="📺 CLÁSICOS",Steptoe And Son
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998696
+
+#EXTINF:-1 tvg-name="Steven Universe 24/7" group-title="👶 INFANTIL",Steven Universe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998697
+
+#EXTINF:-1 tvg-name="Storage Wars 24/7" group-title="📦 REALITY",Storage Wars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998698
+
+#EXTINF:-1 tvg-name="Stranger Things 24/7" group-title="👻 NETFLIX STYLE",Stranger Things
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998699
+
+#EXTINF:-1 tvg-name="Street Hawk 24/7" group-title="📺 CLÁSICOS",Street Hawk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://monstertv.live:8080/Bernice2/Hoffa/998700
