@@ -51,7 +51,6 @@ http://monstertv.live:8080/Bernice2/Hoffa/998699
 #EXTINF:-1 tvg-name="Street Hawk 24/7" group-title="📺 CLÁSICOS",Street Hawk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://monstertv.live:8080/Bernice2/Hoffa/998700
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
 
 #EXTINF:-1 group-title="🎬 PELÍCULAS ESTRENO",Beekeeper: El protector (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
