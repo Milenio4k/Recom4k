@@ -159,3 +159,35 @@ https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBC-LFkvTEvY1vznypvlc4VpNtF1ZDKBw
 https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBDNBRPLazsEPapcbqkpWlu19QR8QHvN-WX7QLeV4HCSL#.mp4
 #EXTINF:-1 xui-id="222606" tvg-name="Atracadores: La serie S02E04" tvg-logo="https://lokuratv.xyz:443/images/yN-aXoA2R1-eEooj5VFqLzt_D9e8Pptt1ebYayAjAtSO3ksXVLTtPCzGkZG6HAUj_SMY-KLBp3E-jqNMt_S3u2pyaBocjYWqIAMO8e_fkyk.jpg" group-title="♦️NETFLIX♦️",Atracadores: La serie S02E04
 https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBLg3ISlHZwh7Edh1YnlYaSD_5VSRS_4mxdB8VrJUhLsD#.mp4
+
+########## 🇺🇸 USA TV ##########
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN" tvg-logo="https://i.ibb.co/DMYC7qF/espn.png" group-title="🇺🇸 USA TV",US: ESPN
+http://monstertv.live:8080/Bernice2/Hoffa/999549
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US: ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="🇺🇸 USA TV",US: ESPN 2
+http://monstertv.live:8080/Bernice2/Hoffa/999550
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="US: ESPN Deportes" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" group-title="🇺🇸 USA TV",US: ESPN Deportes
+http://monstertv.live:8080/Bernice2/Hoffa/999551
+
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="US: ESPNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png" group-title="🇺🇸 USA TV",US: ESPNEWS
+http://monstertv.live:8080/Bernice2/Hoffa/999552
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="US: ESPNU" tvg-logo="https://espnpressroom.com/us/files/2009/12/espnu.png" group-title="🇺🇸 USA TV",US: ESPNU
+http://monstertv.live:8080/Bernice2/Hoffa/999553
+
+#EXTINF:-1 tvg-id="FETV.us" tvg-name="US: FETV" tvg-logo="https://streamingtvguides.com/img/d/FETV.png" group-title="🇺🇸 USA TV",US: FETV
+http://monstertv.live:8080/Bernice2/Hoffa/999554
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US: FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="🇺🇸 USA TV",US: FOOD NETWORK
+http://monstertv.live:8080/Bernice2/Hoffa/999555
+
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="US: FOX" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="🇺🇸 USA TV",US: FOX
+http://monstertv.live:8080/Bernice2/Hoffa/999556
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="US: FOX BUSINESS" tvg-logo="http://thetalkinggeek.com/wp-content/uploads/2012/03/logo4.png" group-title="🇺🇸 USA TV",US: FOX BUSINESS
+http://monstertv.live:8080/Bernice2/Hoffa/999557
+
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="US: Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/220px-FOX_Deportes_logo.png" group-title="🇺🇸 USA TV",US: Fox Deportes
+http://monstertv.live:8080/Bernice2/Hoffa/999558
